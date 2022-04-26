@@ -1,0 +1,61 @@
+body {
+	margin: 0;	
+}
+.site_banner {
+	border: solid black 8px;
+	border-bottom: solid black 1px;
+	padding: 20px;
+	text-align: center;
+}
+.site_banner img {
+	width: 330px;
+}
+.site_banner h3 {
+	font-family: Basier, serif;
+	font-weight: bold;
+	font-size: 14px;
+	color: #de2f23;
+	letter-spacing: 1px;
+}
+.article {
+	max-width: 900px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.story_header {
+	font-family: Basier, serif;
+	font-size: 20px;
+}
+.story_header h1 {
+	font-size: 46px;
+	margin-bottom: 0px;
+}
+.byline {
+	font-weight: bold;
+}
+.story_copy {
+	font-family: Pensum, serif;
+	font-size: 20px;
+}
+.story_copy img {
+	width: 100%;
+}
+.photo_caption {
+	color: dimgray;
+	font-size: 14px;
+}
+.footer {
+	font-family: Basier, serif;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.footer_info {
+	color: dimgray;
+	font-size: 14px;
+}
+a {
+	color: black;
+}
+a:hover {
+	color: blueviolet;
+}
